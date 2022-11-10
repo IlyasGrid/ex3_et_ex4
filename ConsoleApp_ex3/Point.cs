@@ -11,7 +11,8 @@ namespace ConsoleApp_ex3
         double x;
         double y;
 
-        Point(int x=0 , int y=0)
+   
+        Point(double x=0 , double y=0)
         {
             this.x = x;
             this.y = y;
